@@ -1,0 +1,6 @@
+{
+  "name": "AI & Robotics Summer Workshop",
+  "description": "An interactive landing page with a student registration enquiry portal, featuring full-stack MongoDB/Mongoose connection, rich course outlines, and clear FAQ accordions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
